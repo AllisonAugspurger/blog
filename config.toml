@@ -1,4 +1,4 @@
-baseURL = "https://feedingthisfamily.com"
+baseURL = "https://feedingthisfamily.com/"
 languageCode = "en-us"
 title = "Feeding this Family"
 theme = "ezhil"
